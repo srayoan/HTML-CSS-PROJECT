@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    background: blue;
+    border: 2px dotted yellowgreen;
+}
+footer{
+    height: 10vh;
+    background-color: blue;
+    color: antiquewhite;
+}
+.href{
+    color: yellow;
+    text-decoration: none;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 23px;
+}
+nav ul{
+    align-items: center;
+    justify-content: flex-start;
+    height: 58px;
+    display: flex;
+}
+nav{
+    display: flex;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    width: 125px;
+    padding: 0 25px;
+}
+.container{
+    min-height: calc(100vh - 58px - 10vh) ;
+}
+.href:hover{
+    color: rgb(10, 190, 150);
+    font-weight: bolder;
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+.search input{
+    width: 493px;
+    height: 27px;
+    border-radius: 6px;
+    margin: 0 0px;
+    padding: 0 12px;
+}
+.search-bar img{
+    position: absolute;
+    width: 18px;
+    display: flex;
+    margin: 0 0 0 13px;
+}
+.search-bar{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.slider{
+    margin: 12px auto;
+    width: 60vw;
+}
+.slider img{
+    width: 650px;
+    display: flex;
+    padding: 0 110px;
+}
+.card{
+    background-color: yellow;
+    max-width: 100vw;
+    margin: auto;
+}
+.card h3{
+    font-style: italic;
+    color: solid black;
+}
+.card-item-1{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+}
+.card-item-2{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 228px;
+    height: 230px;
+}
+.card-item-3{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 172px;
+    height: 172px;
+}
+.card-item-4{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 330px;
+    height: 330px;
+}
+.card-item-5{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 235px;
+    height: 235px;
+}
+.card-item-6{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 200px;
+    height: 420px;
+}
+.card-item-7{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-8{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-9{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 280px;
+    height: 420px;
+}
+.card-item-10{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-11{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-12{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-13{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 280px;
+    height: 420px;
+}
+.card-item-14{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.card-item-15{
+    flex-direction: column;
+    display: inline-flex;
+    display: inline-flex;
+    margin: 0 15px;
+    width: 250px;
+    height: 420px;
+}
+.href2{
+    color: antiquewhite;
+    padding: 70px;
+    text-decoration: none;
+}
+.href2:hover{
+    color: rgb(127, 255, 246);
+    font-weight: bolder;
+
+}
